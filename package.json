@@ -1,0 +1,24 @@
+{
+  "title": "Deep Chill Theme",
+  "name": "deepchill",
+  "description": "Cool color scheme for Brackets.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mark Wilson",
+    "url": "https://github.com/rnarrkus"
+    },
+  "homepage": "https://github.com/rnarrkus/deepchill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rnarrkus/deepchill.git"
+    },
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=1.3.0"
+    },
+  "theme": {
+    "file": "main.min.css",
+    "dark": true
+    },
+  "keywords": ["theme","chill","dark","cool","sublime","fork","css","frost"]
+}
